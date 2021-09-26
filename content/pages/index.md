@@ -107,4 +107,9 @@ sections:
     image_alt: Illustration
     bg_color: light
 layout: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 ---
